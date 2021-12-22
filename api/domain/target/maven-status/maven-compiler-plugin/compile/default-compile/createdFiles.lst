@@ -1,0 +1,6 @@
+configuration/PipelineConfiguration.class
+handler/SampleUseCaseHandler.class
+model/SampleResult.class
+model/SampleCommand$SampleCommandBuilder.class
+model/SampleResult$SampleResultBuilder.class
+model/SampleCommand.class
