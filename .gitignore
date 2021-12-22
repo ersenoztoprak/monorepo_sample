@@ -1,6 +1,6 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
 HELP.md
-*/target/**
+**/target/**
 .DS_Store
 .mvn/wrapper/*
 mvnw
@@ -31,3 +31,5 @@ mvnw.cmd
 
 ### VS Code ###
 .vscode/
+
+**.class
