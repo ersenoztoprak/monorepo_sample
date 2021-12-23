@@ -1,7 +1,6 @@
-package com.example.demo3.adapter.port;
+package com.example.demo3.port;
 
 import org.springframework.stereotype.Component;
-import com.example.demo3.port.SamplePort;
 
 @Component
 public class SampleAdapter implements SamplePort {
