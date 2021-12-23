@@ -5,7 +5,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>api</module>
+        <module>infra</module>
+        <module>domain</module>
 	</modules>
 
     <parent>
