@@ -1,4 +1,4 @@
-package configuration;
+package com.example.demo3.configuration;
 
 
 import an.awesome.pipelinr.Command;

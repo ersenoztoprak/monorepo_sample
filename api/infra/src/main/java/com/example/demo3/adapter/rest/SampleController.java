@@ -2,11 +2,13 @@ package com.example.demo3.adapter.rest;
 
 import an.awesome.pipelinr.Pipeline;
 import lombok.RequiredArgsConstructor;
-import model.SampleCommand;
+import com.example.demo3.model.SampleCommand;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+@RequestMapping("sample")
 @RequiredArgsConstructor
 public class SampleController {
 

@@ -1,4 +1,4 @@
-package model;
+package com.example.demo3.model;
 
 import an.awesome.pipelinr.Command;
 import lombok.Builder;
