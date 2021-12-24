@@ -13,8 +13,8 @@
     <artifactId>infra</artifactId>
 
     <modules>
-        <module>rest</module>
-        <module>port</module>
+        <module>/adapter/in/rest</module>
+        <module>/adapter/out/persistence</module>
     </modules>
 
 </project>

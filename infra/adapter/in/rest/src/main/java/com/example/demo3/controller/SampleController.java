@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("sample")
 @RequiredArgsConstructor
-public class SampleWebAdapter {
+public class SampleController {
 
     private final Pipeline pipeline;
 
